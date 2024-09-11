@@ -1,5 +1,7 @@
 # Front-end developer assignment for SMART-buisness
 
+## Live deploy available at https://Mikku0.github.io/SMART-frontend-task
+
 ## Main page
 
 <p align="center">
