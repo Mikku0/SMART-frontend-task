@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SMART-frontend-task/static/css/main.c483af92.css",
+    "main.js": "/SMART-frontend-task/static/js/main.e2c08600.js",
+    "index.html": "/SMART-frontend-task/index.html",
+    "main.c483af92.css.map": "/SMART-frontend-task/static/css/main.c483af92.css.map",
+    "main.e2c08600.js.map": "/SMART-frontend-task/static/js/main.e2c08600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c483af92.css",
+    "static/js/main.e2c08600.js"
+  ]
+}
